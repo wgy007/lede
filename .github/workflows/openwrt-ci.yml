@@ -224,7 +224,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-pptp-server=y
           CONFIG_PACKAGE_luci-app-privoxy=y
           CONFIG_PACKAGE_luci-app-qos=y
-          CONFIG_PACKAGE_luci-app-radicale #CalDAV/CardDAV同步工=y
+          CONFIG_PACKAGE_luci-app-radicale=y
           CONFIG_PACKAGE_luci-app-ramfree=y
           CONFIG_PACKAGE_luci-app-rp-pppoe-server=y
           CONFIG_PACKAGE_luci-app-samba=y
@@ -246,7 +246,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-transmission=y
           CONFIG_PACKAGE_luci-app-travelmate=y
           CONFIG_PACKAGE_luci-app-ttyd=y
-          CONFIG_PACKAGE_luci-app-udpxy #udpxy做组播服务=y
+          CONFIG_PACKAGE_luci-app-udpxy=y
           CONFIG_PACKAGE_luci-app-uhttpd=y
           CONFIG_PACKAGE_luci-app-unbound=y
           CONFIG_PACKAGE_luci-app-upnp=y
